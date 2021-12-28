@@ -17,7 +17,7 @@ The task is to pick all three magnetic pebbles and deposit them into the water p
 
 ## Software requirements:
 - ATMEL Studio 6
-- Python >= 2.0
+- Python >= 3.5
 - Blender >= 2.79
 - OpenCV >= 3.4
 - OpenGL >= 3.1
