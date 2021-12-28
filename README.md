@@ -3,7 +3,7 @@ As part of the national-level robotics competition, E-Yantra, organised by IIT B
 
 The task is to pick all three magnetic pebbles and deposit them into the water pitcher in the shortest possible. We used the A\* algorithm for calculating the shortest path between the pitcher and the pebbles. In addition, we used augmented reality to project 3D blender models of crow, pebble pile and water pitcher onto the Aruco markers and updates to the pebble pile and water level were made in real-time once the tasks were completed.
 
-## Hardware requirements:
+## Hardware requirements
 - ATMEGA2560 Development Board
 - 2 Xbee modules
 - L298 Motor Driver
@@ -15,7 +15,7 @@ The task is to pick all three magnetic pebbles and deposit them into the water p
 - Buzzer module
 - Connecting jumper wires
 
-## Software requirements:
+## Software requirements
 - ATMEL Studio 6
 - Python >= 3.5
 - Blender >= 2.79
