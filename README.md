@@ -22,6 +22,8 @@ The task is to pick all three magnetic pebbles and deposit them into the water p
 - OpenCV >= 3.4
 - OpenGL >= 3.1
 
-Here is the link to the demonstration video:
+## Demonstration video
+
+Click on the thumbnail below to watch the demonstration video
 
 [![Image](Robot.png)](https://youtu.be/mA4sesmhNMw?t=36)
